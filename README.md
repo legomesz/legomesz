@@ -1,3 +1,14 @@
+<!-- typing SVG container -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      style="width: 100%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sr.+J%C3%A1+reiniciou+o+seu+computador%3F%22;%22Na+minha+m%C3%A1quina+funciona%22;"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
 ## Hi!! My name is Leonardo Gomes 👋
 
 - 🔭 My goal is to become a Front-end focused programmer.
