@@ -1,4 +1,4 @@
-### Olá! Meu nome é Leonardo Gomes 👋
+## Olá! Meu nome é Leonardo Gomes 👋
 
 - 🔭 My goal is to become a Front-end focused programmer.
 - 🌱 I study HTML, CSS, and JavaScript.
@@ -11,4 +11,10 @@
 
 ![legomesz's GitHub stats](https://github-readme-stats.vercel.app/api?username=legomesz&show_icons=true&theme=radical)
 
-
+## Tecnologias que eu utilizo 
+<div style="display? inline_block"><br/>
+  ing align="center" alt=html5 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+  <div/>
+  
+  
+  
