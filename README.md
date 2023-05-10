@@ -1,4 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7CA22&center=true&vCenter=true&width=435&lines=%22Hello+World!%22;%22Sir.+have+you+already+restarted+your+computer%3F%22;+%22It+works+on+my+machine!%22)](https://git.io/typing-svg)
+<!-- typing SVG container -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      style="width: 100%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sir.+have+you+already+restarted+your+computer%3F%22;%22It+works+on+my+machine!%22;"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 ## Hi!! My name is Leonardo Gomes 👋
 
