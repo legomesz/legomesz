@@ -1,13 +1,47 @@
-<!-- typing SVG container -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      style="width: 100%"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sir.+have+you+already+restarted+your+computer%3F%22;%22It+works+on+my+machine!%22;"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Exemplo de mudança de cor de texto</title>
+    <style>
+      body {
+        background-color: white;
+        color: black;
+        transition: background-color 1s ease;
+      }
+      body.dark {
+        background-color: black;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div align="center">
+      <a href="https://git.io/typing-svg">
+        <img
+          style="width: 100%"
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sir.+have+you+already+restarted+your+computer%3F%22;%22It+works+on+my+machine!%22;"
+          alt="Typing SVG"
+          id="typing-svg"
+        />
+      </a>
+    </div>
+    <script>
+      function updateColor() {
+        var body = document.getElementsByTagName("body")[0];
+        var typingSvg = document.getElementById("typing-svg");
+        if (getComputedStyle(body).getPropertyValue("background-color") === "rgb(255, 255, 255)") {
+          body.classList.remove("dark");
+          typingSvg.style.color = "black";
+        } else {
+          body.classList.add("dark");
+          typingSvg.style.color = "white";
+        }
+      }
+      setInterval(updateColor, 5000); // atualiza a cada 5 segundos
+    </script>
+  </body>
+</html>
 
 ## Hi!! My name is Leonardo Gomes 👋
 
