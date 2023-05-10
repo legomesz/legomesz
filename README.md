@@ -1,13 +1,40 @@
-<!-- typing SVG container -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      style="width: 100%"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sir.+have+you+already+restarted+your+computer%3F%22;%22It+works+on+my+machine!%22;"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Typing SVG with Dynamic Text Color</title>
+    <style>
+      body {
+        background-color: #ffffff; /* Cor de fundo branca padrão */
+        color: #000000; /* Cor do texto preta padrão */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- typing SVG container -->
+    <div align="center">
+      <a href="https://git.io/typing-svg">
+        <img
+          style="width: 100%"
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&center=true&lines=Hello+World!;%22Sir.+have+you+already+restarted+your+computer%3F%22;%22It+works+on+my+machine!%22;"
+          alt="Typing SVG"
+        />
+      </a>
+    </div>
+
+    <script>
+      // Detecta se a página está clara ou escura
+      const isDarkMode =
+        window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+      // Altera a cor do texto com base no modo de cor da página
+      if (isDarkMode) {
+        document.body.style.color = '#ffffff'; /* Cor do texto branca para o modo escuro */
+      } else {
+        document.body.style.color = '#000000'; /* Cor do texto preta para o modo claro */
+      }
+    </script>
+  </body>
+</html>
 ## Hi!! My name is Leonardo Gomes 👋
 
 - 🔭 My goal is to become a Front-end focused programmer.
