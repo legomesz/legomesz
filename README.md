@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7385A&background=58FFC000&width=435&lines=Hello+World!;+%22Sir.+have+you+already+restarted+your+computer%3F%22;+%22It+works+on+my+machine!%22)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066F7&background=58FFC000&center=true&width=435&lines=%22Hello+World!%22;+%22Sir.+have+you+already+restarted+your+computer%3F%22;+%22It+works+on+my+machine!%22)]
 ## Hi!! My name is Leonardo Gomes 👋
 
 - 🔭 My goal is to become a Front-end focused programmer.
